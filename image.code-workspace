@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "image"
+		},
+		{
+			"path": "node_modules"
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
