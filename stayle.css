@@ -16,7 +16,7 @@ body {
 #heder {
     width: 100%;
     height: 100vh;
-    background-image: url(image/test.png);
+    background-image: url(img/test.png);
     background-size: cover;
     background-position: center;
 }
